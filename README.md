@@ -34,6 +34,6 @@ Once upon a time, I coded with these technologies, languages, tools, and framewo
 - Docker
 - Terraform
 - AWS Cloudformation
-- Zsh, oh-my-zsh
+- [Zsh]([url](https://www.zsh.org)), [oh-my-zsh]([url](https://ohmyz.sh))
 - AWS-CDK
 - GPT Prompt Engineering
