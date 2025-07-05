@@ -37,3 +37,7 @@ Once upon a time, I coded with these technologies, languages, tools, and framewo
 - [Zsh]([url](https://www.zsh.org)), [oh-my-zsh]([url](https://ohmyz.sh))
 - AWS-CDK
 - GPT Prompt Engineering
+- huggingface spaces
+- a1111, comfyui, invokeai
+- mergemix
+- lmstudio,ollama,anythingllm,msty
